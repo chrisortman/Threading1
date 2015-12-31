@@ -1,0 +1,12 @@
+e:\code\Threading1\Threading1\bin\Debug\Threading1.exe.config
+e:\code\Threading1\Threading1\obj\Debug\Threading1.csprojResolveAssemblyReference.cache
+e:\code\Threading1\Threading1\bin\Debug\Threading1.exe
+e:\code\Threading1\Threading1\bin\Debug\Threading1.pdb
+e:\code\Threading1\Threading1\obj\Debug\Threading1.exe
+e:\code\Threading1\Threading1\obj\Debug\Threading1.pdb
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\bin\Debug\Threading1.exe.config
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\obj\Debug\Threading1.exe
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\obj\Debug\Threading1.pdb
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\bin\Debug\Threading1.exe
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\bin\Debug\Threading1.pdb
+C:\Users\chriso\Dropbox\Code\Threading1\Threading1\obj\Debug\Threading1.csprojResolveAssemblyReference.cache
